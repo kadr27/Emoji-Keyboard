@@ -1,0 +1,18 @@
+# Privacy Policy for Emoji Keyboard Extension
+
+This extension does not collect, store, or transmit any personal data.
+
+Data Storage:
+- Only stores your recently used emojis locally in your browser
+- No data is sent to external servers
+- No personal information is collected
+
+Permissions Used:
+- "activeTab": To allow emoji paste functionality
+- "storage": To save your recently used emojis
+- "clipboard-write": To copy emojis to clipboard
+
+Contact:
+[Your contact information]
+
+Last updated: [Date]

@@ -1,5 +1,5 @@
 # Privacy Policy for Emoji Keyboard Extension
-Last Updated: 24/02/2025
+Last Updated: 12/03/2025
 
 ## Overview
 The Emoji Keyboard extension is designed with privacy in mind. This policy explains how we handle your data and permissions.

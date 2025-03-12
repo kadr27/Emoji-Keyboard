@@ -1,5 +1,4 @@
 # Privacy Policy for Emoji Keyboard Extension
-
 Last Updated: 24/02/2025
 
 ## Overview
@@ -15,19 +14,15 @@ The Emoji Keyboard extension is designed with privacy in mind. This policy expla
 - Data is only accessible within your browser
 
 ### Required Permissions
-1. `activeTab`: 
-   - Used only to enable copying emojis
-   - Only activated when you click an emoji
-   - No access to page content
 
-2. `clipboard-write`:
-   - Required to copy emojis to your clipboard
-   - Only activated when you click an emoji
+#### clipboard-write:
+- Required to copy emojis to your clipboard
+- Only activated when you click an emoji
 
-3. `storage`:
-   - Stores your recently used emojis
-   - Saves your support preference
-   - All data stays in your browser
+#### storage:
+- Stores your recently used emojis
+- Saves your support preference
+- All data stays in your browser
 
 ## Optional Support Feature
 
@@ -41,18 +36,19 @@ When enabled (via the support checkbox):
 - No browsing history is tracked
 - No impact on prices or shopping experience
 
-Required permissions for this feature:
-1. `webNavigation`:
-   - Only used when support is enabled
-   - Only checks Amazon product URLs
-   - No access to browsing history
+### Required permissions for this feature:
 
-2. `host_permissions` for Amazon domains:
-   - Only active when support is enabled
-   - Only affects Amazon product pages
-   - No access to personal or account information
+#### webNavigation:
+- Only used when support is enabled
+- Only checks Amazon product URLs
+- No access to browsing history
 
-### User Control
+#### host_permissions for Amazon domains:
+- Only active when support is enabled
+- Only affects Amazon product pages
+- No access to personal or account information
+
+## User Control
 - Support feature is optional
 - Can be toggled on/off at any time
 - Preference is saved locally
@@ -71,5 +67,4 @@ This privacy policy may be updated to reflect:
 - Security improvements
 
 ## Contact
-If you have questions about this privacy policy or the extension:
-dahirkader@gmail.com
+If you have questions about this privacy policy or the extension: dahirkader@gmail.com

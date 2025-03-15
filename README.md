@@ -1,70 +1,47 @@
 # Privacy Policy for Emoji Keyboard Extension
-Last Updated: 12/03/2025
+Last Updated: 15/03/2025
 
 ## Overview
-The Emoji Keyboard extension is designed with privacy in mind. This policy explains how we handle your data and permissions.
+Emoji Keyboard is a simple browser extension that provides quick access to emojis. We are committed to protecting your privacy and being transparent about our data practices.
 
-## Core Emoji Functionality
+## What Data We Collect
 
-### Data Collection & Storage
-- We store your recently used emojis locally in your browser
-- No personal data is collected
+### Recently Used Emojis
+- We store your recently used emojis to provide quick access to your favorite emojis
+- This data is stored locally in your browser using Chrome's storage API
+- Maximum of 30 recently used emojis are stored
+- This data never leaves your browser
+
+### Technical Data
+- No personal information is collected
+- No usage statistics are collected
+- No analytics are implemented
 - No data is transmitted to external servers
-- All emoji data is stored using Chrome's storage API
-- Data is only accessible within your browser
 
-### Required Permissions
+## How We Use Browser Permissions
 
-#### clipboard-write:
+### clipboard-write
+- Used only when you click an emoji to copy it
 - Required to copy emojis to your clipboard
-- Only activated when you click an emoji
+- No clipboard data is stored or transmitted
 
-#### storage:
-- Stores your recently used emojis
-- Saves your support preference
-- All data stays in your browser
-
-## Optional Support Feature
-
-### Amazon Affiliate Program
-The extension includes an optional support feature that helps fund development through Amazon's affiliate program.
-
-When enabled (via the support checkbox):
-- The extension will add our affiliate code to Amazon product links
-- Only affects Amazon.com and Amazon.co.uk domains
-- No personal data is collected or transmitted
-- No browsing history is tracked
-- No impact on prices or shopping experience
-
-### Required permissions for this feature:
-
-#### webNavigation:
-- Only used when support is enabled
-- Only checks Amazon product URLs
-- No access to browsing history
-
-#### host_permissions for Amazon domains:
-- Only active when support is enabled
-- Only affects Amazon product pages
-- No access to personal or account information
-
-## User Control
-- Support feature is optional
-- Can be toggled on/off at any time
-- Preference is saved locally
-- No data is collected regardless of setting
+### storage
+- Used to save your recently used emojis
+- All data remains local to your browser
+- No syncing with external servers
 
 ## Data Security
-- No personal data collection
-- No external data transmission
-- All storage is local to your browser
-- No analytics or tracking
+- All data is stored locally in your browser
+- No external servers are involved
+- No personal information is collected or transmitted
+- No third-party services are used
 
-## Updates
+## Updates to This Policy
 This privacy policy may be updated to reflect:
-- New features
 - Chrome Web Store requirements
 - Security improvements
+- Feature updates
 
 ## Contact
-If you have questions about this privacy policy or the extension: dahirkader@gmail.com
+For questions about this privacy policy or the extension:
+- Email: dahirkader@gmail.com 
